@@ -1,0 +1,31 @@
+2020-08-06 01:59:23.721 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome=84 (valid until 2020-08-06 02:03:41)
+2020-08-06 01:59:23.725 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome84=84.0.4147.30 (valid until 2020-08-06 02:03:41)
+2020-08-06 01:59:23.725 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 84.0.4147.30 (since Google Chrome 84 is installed in your machine)
+2020-08-06 01:59:23.740 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-06 01:59:23.741 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/lena/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-06 01:59:34.772 [main] INFO  SanityTests - Param test list of news Israel section
+2020-08-06 01:59:44.162 [main] INFO  pages.BasePage - Check element with xpath exists: (//div[@class='newslist'])[1]
+2020-08-06 01:59:46.106 [main] INFO  SanityTests - Param test list of news Israel section
+2020-08-06 01:59:53.164 [main] INFO  pages.BasePage - Check element with xpath exists: (//div[@class='newslist'])[1]//a[@class='newslist_title']
+2020-08-06 01:59:54.360 [main] INFO  SanityTests - Param test list of news Israel section
+2020-08-06 02:00:03.636 [main] INFO  pages.BasePage - Check element with xpath exists: (//div[@class='newslist']//a[@class ='newslist_title'])[1]
+2020-08-06 02:00:05.063 [main] INFO  SanityTests - Param test list of news Israel section
+2020-08-06 02:00:12.836 [main] INFO  pages.BasePage - Check element with xpath exists: (//div[@class='newslist']//a[@class ='newslist_title'])[2]
+2020-08-06 02:00:14.745 [main] INFO  SanityTests - Param test list of news Israel section
+2020-08-06 02:00:23.738 [main] INFO  pages.BasePage - Check element with xpath exists: (//div[@class='newslist']//a[@class ='newslist_title'])[3]
+2020-08-06 02:00:26.114 [main] INFO  SanityTests - Param test list of news Israel section
+2020-08-06 02:00:35.260 [main] INFO  pages.BasePage - Check element with xpath exists: (//div[@class='newslist']//a[@class ='newslist_title'])[4]
+2020-08-06 02:00:36.680 [main] INFO  SanityTests - Param test list of news Israel section
+2020-08-06 02:00:44.828 [main] INFO  pages.BasePage - Check element with xpath exists: (//div[@class='newslist']//a[@class ='newslist_title'])[5]
+2020-08-06 02:00:46.682 [main] INFO  SanityTests - Param test list of news Israel section
+2020-08-06 02:00:52.880 [main] INFO  pages.BasePage - Check element with xpath exists: (//div[@class='newslist']//a[@class ='newslist_title'])[10]
+2020-08-06 02:00:54.238 [main] INFO  SanityTests - Param test list of news Israel section
+2020-08-06 02:01:00.385 [main] INFO  pages.BasePage - Check element with xpath exists: (//div[@class='newslist']//a[@class ='newslist_title'])[11]
+2020-08-06 02:01:01.733 [main] INFO  SanityTests - Param test list of news Israel section
+2020-08-06 02:01:07.799 [main] INFO  pages.BasePage - Check element with xpath exists: (//div[@class='newslist']//a[@class ='newslist_title'])[22]
+2020-08-06 02:01:09.129 [main] INFO  SanityTests - Param test list of news Israel section
+2020-08-06 02:01:14.562 [main] INFO  pages.BasePage - Check element with xpath exists: (//div[@class='newslist']//a[@class ='newslist_title'])[30]
+2020-08-06 02:01:15.852 [main] INFO  SanityTests - Param test list of news Israel section
+2020-08-06 02:01:22.383 [main] INFO  pages.BasePage - Check element with xpath exists: (//div[@class='newslist']//a[@class ='newslist_title'])[40]
+2020-08-06 02:01:23.603 [main] INFO  SanityTests - Param test list of news Israel section
+2020-08-06 02:01:28.898 [main] INFO  pages.BasePage - Check element with xpath exists: (//div[@class='newslist']//a[@class ='newslist_title'])[41]
